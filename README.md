@@ -1,5 +1,5 @@
-# Rating-system
-Implement Upvote/Downvote Weighted Rating System Using Bayesian Average
+# Ranking-system
+Implement Upvote/Downvote Weighted Ranking System Using Bayesian Average
 
 ## Getting Started
 
