@@ -1,5 +1,5 @@
 # Ranking-system
-Implement Upvote/Downvote Weighted Ranking System Using Bayesian Average
+A Upvote-Downvote Weighted Ranking System Using Bayesian Average implemented in Laravel 5.
 
 ## Getting Started
 
@@ -10,5 +10,11 @@ Implement Upvote/Downvote Weighted Ranking System Using Bayesian Average
 - Install [Composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx)
 
 - Run ```Composer install``` in your terminal to install dependencies
- 
- 
+
+- Create an ```env``` file and update your database details.
+
+- Run ```php artisan migrate``` 
+
+- Run ```php artisan db:seed``` 
+
+

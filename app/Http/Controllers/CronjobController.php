@@ -14,6 +14,7 @@ class CronjobController extends Controller
     public function rank(){
 
 		$model=new Answer();
+		dd($model->test());
 		return $model->triggerRanking();
 	}
 }
