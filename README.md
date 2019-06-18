@@ -17,4 +17,6 @@ A Upvote-Downvote Weighted Ranking System Using Bayesian Average implemented in 
 
 - Run ```php artisan db:seed``` 
 
+-Follow the tutorial https://www.talwork.net/upvotedownvote-weighted-ranking-system-in-laravel-using-bayesian-formula
+
 
